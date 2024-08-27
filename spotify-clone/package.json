@@ -1,0 +1,30 @@
+{
+  "name": "spotify-clone",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.3",
+    "@astrojs/react": "^3.6.2",
+    "@astrojs/svelte": "^5.7.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "@radix-ui/react-slider": "^1.2.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "astro": "^4.14.5",
+    "clsx": "^2.1.1",
+    "dependencies": "^0.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "svelte": "^4.2.18",
+    "tailwindcss": "^3.4.7",
+    "typescript": "^5.5.4",
+    "zustand": "^4.5.4"
+  }
+}
